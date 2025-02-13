@@ -1,0 +1,5 @@
+C:/Users/prebe/ikt103g23v/assignments/solutions/eksamen_2/cmake-build-debug/CMakeFiles/sqlite3.dir
+C:/Users/prebe/ikt103g23v/assignments/solutions/eksamen_2/cmake-build-debug/CMakeFiles/sqlitecpp.dir
+C:/Users/prebe/ikt103g23v/assignments/solutions/eksamen_2/cmake-build-debug/CMakeFiles/eksamen_2.dir
+C:/Users/prebe/ikt103g23v/assignments/solutions/eksamen_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prebe/ikt103g23v/assignments/solutions/eksamen_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
